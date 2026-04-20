@@ -1,0 +1,11 @@
+cvenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+chest_xray/
+*.keras
+*.h5
+.env
+.DS_Store
